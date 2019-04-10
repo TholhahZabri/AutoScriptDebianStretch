@@ -19,10 +19,16 @@
   <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
  </p>
 
-<h3 align="center">Installation</h3>
+<h3 align="center">Installation (DigitalOcean)</h3>
 
 <p align="center">
 wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
+</p>
+
+<h3 align="center">Installation (VULTR)</h3>
+
+<p align="center">
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretchV && chmod +x DebianStretchV && ./DebianStretchV
 </p>
 
 
