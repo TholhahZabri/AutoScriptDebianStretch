@@ -1,4 +1,4 @@
-<h1 align="center"> VPS AutoScript 9<img src="https://img.shields.io/badge/Version-1.3-blue.svg"></h1>
+<h1 align="center"> VPN AutoScript Debian Stretch<img src="https://img.shields.io/badge/Version-1.3-blue.svg"></h1>
 
 <p align="center">VPS AutoScript is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
 <h3 align="center">Supported Linux Distribution</h3>
