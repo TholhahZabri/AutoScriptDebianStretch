@@ -30,16 +30,6 @@ wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/maste
 <p align="center">
 Recommended OS: Debian 9 Stretch x64
 
-Service Include
-OpenSSH : 22 , 80
-Dropbear : 442
-Squid : 3355 , 8085
-SSL : 444, 587
-OpenVPN : 1197
-OpenVPN SSL : 587
-Webmin : ip:10000
-DDOS Deflate
-Fail2Ban
 
-CONFIGS DOWNLOAD LINK: IP/configs.zip
+Facebook Support: https://www.facebook.com/johndesu090
    </p>
